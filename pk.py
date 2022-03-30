@@ -1,5 +1,3 @@
-from email.generator import DecodedGenerator
-
 
 curmsg = []
 code = ''
